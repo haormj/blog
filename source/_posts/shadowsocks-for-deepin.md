@@ -5,6 +5,10 @@ categories: config
 tags: [shadowsocks,deepin]
 description: 如何在debain上面安装shadowsocks图形客户端
 ---
+## 更新
+### 2017.02.14
+我使用的是deepin操作系统,在深度商店里面就可以直接看到shadowsocks,所以也不用麻烦的去参考以前的步骤了
+{% qnimg 2017/02/14/1.png %}
 ## 步骤
 1. 打开链接https://code.launchpad.net/~hzwhuang/+archive/ubuntu/ss-qt5
 2. 然后点击下图中的链接
